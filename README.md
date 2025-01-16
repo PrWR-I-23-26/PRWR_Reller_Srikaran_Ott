@@ -1,7 +1,7 @@
 # PRWR_Reller_Srikaran_Ott
 
 
-##Skizze
+#Skizze
 hier ist eine Szikke von der geplanten Grafik.
 
 
