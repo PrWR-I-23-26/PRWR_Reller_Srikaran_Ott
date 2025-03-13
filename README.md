@@ -8,7 +8,8 @@ Am Anfang haben wir mit ChatGPT fünf statische Diagramme mit den Daten von der 
 
 Oder klicke auf das Bild unten:
 
-[![Video abspielen](https://github.com/Ajaysrikaran/PRWR_Reller_Srikaran_Ott/raw/main/vorschau.jpg)](https://github.com/Ajaysrikaran/PRWR_Reller_Srikaran_Ott/raw/main/video.mp4)
+[![Video abspielen](https://github.com/Ajaysrikaran/PRWR_Reller_Srikaran_Ott/raw/main/vorschau.jpg)](https://github.com/Ajaysrikaran/PRWR_Reller_Srikaran_Ott/raw/main/video.mp
+
 
 ## Fazit
 
